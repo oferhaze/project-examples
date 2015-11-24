@@ -25,5 +25,5 @@
 	  {"name": "VerAtt3", "values" : ["2015-01-01T19:43:37+0100"], "type": "date"}],
 	"gpgSign": true
   },
-  "publish": true
+  "publish": false
 }
