@@ -1,8 +1,8 @@
 {
   "package": {
-	"name": "auto-upload",
-	"repo": "maven",
-	"subject": "eyalbr",
+	"name": "package",
+	"repo": "maven2",
+	"subject": "btuser1050",
 	"desc": "I was pushed completely automatically",
 	"website_url": "www.jfrog.com",
 	"issue_tracker_url": "https://github.com/bintray/bintray-client-java/issues",
