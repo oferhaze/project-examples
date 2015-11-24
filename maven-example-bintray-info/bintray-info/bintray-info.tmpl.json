@@ -1,7 +1,7 @@
 {
   "package": {
 	"name": "package",
-	"repo": "maven2",
+	"repo": "maven2AAA",
 	"subject": "btuser1050",
 	"desc": "I was pushed completely automatically",
 	"website_url": "www.jfrog.com",
